@@ -1,37 +1,45 @@
 [ US A diet method for weight loss ]<br />
-Based on stomach pouch reduction for food addicts, and known existing formulaes on WEB <br />
-and then a calculation and control, day by day, of kilo calories of the food absorbed <br />
+Based on stomach pouch reduction for overweight peoples <br />
+helped from known formulaes available on interne <br /> 
+and then a computing and control, day by day, of kilo calories (kcal) of the food absorbed <br />
 with an excel spreadsheet / OpenOffice calc. <br />
 The spreadsheet can track glycemic control for obese and diabetic type II people <br />
-and also select the food corresponding to a DASH diet (For hypertension, not really effective!)
+and also select the food corresponding to a DASH diet (For hypertension, but not really effective!)
 
-[ Process: ] <br />
-1/ You WELL understand what we mean with the "reduction of the stomach pouch" (see pdf doc)<br />
-   Caution this a GGL translation not updated, GitHub link at beginning is not correct <br /> 
-2/ Then you start by entering your basic datas: sex, age, height, ... ect. <br />
+[ Process 1: the diet ] <br />
+1/ You WELL understand what we mean with the dimming of the stomach pouch (see pdf doc)<br />
+   (Caution this pdf a GGL translation not updated, GitHub link at beginning is not correct) <br /> 
+2/ Then you start by entering your basic datas: sex, age, height, work activity, ... ect. <br />
 3/ Then you choose one of the 2 ideal weight computing methods and your type of morphology (K) <br />
 4/ Which gives you a value in kilocalories (Kcal) of estimated daily metabolism <br />
 5/ You then select the hardness of your diet: Kcal of food below the estimated previous value <br />
 6/ Next you enter every day: the date, your weight measurement, and the details of your food intake. <br />
    Which MUST NOT be higher than the kcal value chosen at 5/ <br />
 this until you reach your idéal weight <br /> 
+[ Process 2: weight Stabilization ] <br />
+After ideal weight reached, this 2nd phase is used to check weight stabilisation <br />
+Kcal amount days will be over the one followed during diet <br />. 
 
 
 [ FR Une methode de régime pour la perte de poids ] <br />
-Basée sur la réduction de la poche stomacale pour les personnes addict à la nourriture <br />
-et basée sur des formules connues dispo sur intenet <br />
-et un calcul du contrôle des kilocalories (kcal) de la nourriture absorbée <br /> 
-jours apres jours à partir d'un tableur excel / OpenOffice calc. <br />
+Basée sur la réduction de la poche stomacale pour les personnes en surpoids <br />
+et basé sur des formules connues existant sur internet <br />
+et ensuite un calcul et contrôle des kilocalories (kcal) de la nourriture absorbée <br /> 
+jours après jours à partir d'un tableur excel / OpenOffice calc. <br />
 Le tableur peut suivre un contrôle glycémique pour les personnes obèse et diabétiques type II <br />
-et aussi selectionner les aliments correspondant à un régime DASH (Pour hypertention, mais peu efficace) <br />
+et aussi selectionner les aliments correspondant à un régime DASH (Pour hypertention,mais peu efficace) <br />
 
-[ Procedure: ] <br />
-1/ Vous comprenez BIEN ce que l'on veux dire avec la "réduction de la poche stomacale" (voir pdf doc)<br />
-2/ Puis vous commencez par rentrer vos données de base: sex, age, taille,... ect. <br />
+[ Procedure 1: le régime ]<br />
+1/ Vous comprenez BIEN ce que l'on veux dire avec la réduction de la poche stomacale (voir pdf doc)<br />
+2/ Puis vous commencez par rentrer vos données de base: sex, age, taille, activité au travail,... ect. <br />
 3/ Ensuite vous choisissez une des 2 méthodes de calcul de poids idéal et votre type de morphologie (K) <br />
 4/ Ce qui vous donne une valeur en kilocalories (Kcal) de métabolisme estimé journalier  <br />
-5/ Vous selectionnez ensuite la dureté du régime: Kcal de nourriture en deça de la valeur estimée calculé avant en /4 . <br />
-6/ Puis vous saisissez tous les jours: la date, votre mesure de poids, et le detail des apports en nourriture  <br />
-   qui NE DOIT PAS dépasser la valeur de kcal choisi en 5/ <br />
+5/ Vous selectionnez ensuite la dureté du régime: Kcal de nourriture en deça de la valeur estimée calculée précédament en /4 . <br />
+6/ Puis vous saisissez tous les jours: la date, votre mesure de poids le matin, et le détail des apports nutritionnels kcal de la journée<br />
+   qui NE DOIT PAS dépasser la valeur de kcal choisie en 5/ <br />
 Ceci jusqu'à ce que vous atteigniez votre poids idéal <br />
+
+[ Procedure 2: Stabilisation après régime ]<br />
+Cette seconde phase sert à contrôler que vous vous maintenez dans une phase pour stabiliser le "poids idéal". <br />
+L'apport en kcal est légèrement supérieur à celui du régime.   
   
