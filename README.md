@@ -19,7 +19,7 @@ this until you reach your idéal weight <br />
 
 [ FR Une methode de régime pour la perte de poids ] <br />
 Basée sur la réduction de la poche stomacale pour les personnes addict à la nourriture <br />
-et basée sur des formukes connues dispo sur intenet <br />
+et basée sur des formules connues dispo sur intenet <br />
 et un calcul du contrôle des kilocalories (kcal) de la nourriture absorbée <br /> 
 jours apres jours à partir d'un tableur excel / OpenOffice calc. <br />
 Le tableur peut suivre un contrôle glycémique pour les personnes obèse et diabétiques type II <br />
