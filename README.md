@@ -18,9 +18,10 @@ The first column of the spreadsheet is used to calculate the kcal/100g and price
 6/ Next you enter every day: the date, your weight measurement, and the details of your food intake. <br />
    Which MUST NOT be higher than the kcal value chosen at 5/ <br />
 this until you reach your idéal weight <br /> 
+
 [ Process 2: weight Stabilization ] <br />
 After ideal weight reached, this 2nd phase is used to check weight stabilisation <br />
-Kcal amount days will be over the one followed during diet <br />. 
+Kcal amount days will be over the one followed during diet. <br /> 
 Now you've learned enough to do without the method and the spreadsheet.<br />
 All that's needed is regular weight monitoring.<br />
 
