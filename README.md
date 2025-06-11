@@ -19,7 +19,8 @@ this until you reach your idéal weight <br />
 [ Process 2: weight Stabilization ] <br />
 After ideal weight reached, this 2nd phase is used to check weight stabilisation <br />
 Kcal amount days will be over the one followed during diet <br />. 
-
+Now you've learned enough to do without the method and the spreadsheet.<br />
+All that's needed is regular weight monitoring.<br />
 
 [ FR Une methode de régime pour la perte de poids ] <br />
 Basée sur la réduction de la poche stomacale pour les personnes en surpoids <br />
@@ -40,6 +41,8 @@ et aussi selectionner les aliments correspondant à un régime DASH (Pour hypert
 Ceci jusqu'à ce que vous atteigniez votre poids idéal <br />
 
 [ Procedure 2: Stabilisation après régime ]<br />
-Cette seconde phase sert à contrôler que vous vous maintenez dans une phase pour stabiliser le "poids idéal". <br />
-L'apport en kcal est légèrement supérieur à celui du régime.   
+Cette seconde phase sert à contrôler que vous vous maintenez dans un domaine pour stabiliser le "poids idéal". <br />
+L'apport en kcal journalier est normalement légèrement supérieur à celui du régime.<br />
+Ensuite vous en avez apris suffisament pour vous passer de la methode et du tableur<br />
+Seule une vérification régulière du poids est nécssaire <br />     
   
