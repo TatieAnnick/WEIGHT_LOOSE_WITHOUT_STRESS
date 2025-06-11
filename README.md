@@ -7,7 +7,7 @@ and also select the food corresponding to a DASH diet (For hypertension)
 
 [ How's it going: ] that is very simple<br />
 1/ You WELL understand what we mean with the reduction of the stomach pouch (see pdf doc)<br />
-caution this is an old ggl translation. The link github at the begining is not good.
+caution this is an old ggl translation. The link github at the begining is not good.<br />
 2/ Then you start by entering your basic datas: sex age height ect. <br />
 3/ Then you choose one of the 2 ideal weight calculation methods and your type of morphology (K) <br />
 4/ Which gives you a value in kilocalories (Kcal) of estimated daily metabolism <br />
