@@ -3,8 +3,10 @@ Based on stomach pouch reduction for overweight peoples <br />
 helped from known formulaes available on interne <br /> 
 and then a computing and control, day by day, of kilo calories (kcal) of the food absorbed <br />
 with an excel spreadsheet / OpenOffice calc. <br />
-The spreadsheet can track glycemic control for obese and diabetic type II people <br />
+The spreadsheet can track glycemic control for obese and diabetic type II people (need medical assistance)<br />
 and also select the food corresponding to a DASH diet (For hypertension, but not really effective!)
+Can also track the cost of a diet, but requires updating all 2022 euro prices, or change for $).
+The first column of the spreadsheet is used to calculate the kcal/100g and price of a dish prepared by you.
 
 [ Process 1: the diet ] <br />
 1/ You WELL understand what we mean with the dimming of the stomach pouch (see pdf doc)<br />
@@ -27,8 +29,10 @@ Basée sur la réduction de la poche stomacale pour les personnes en surpoids <b
 et basé sur des formules connues existant sur internet <br />
 et ensuite un calcul et contrôle des kilocalories (kcal) de la nourriture absorbée <br /> 
 jours après jours à partir d'un tableur excel / OpenOffice calc. <br />
-Le tableur peut suivre un contrôle glycémique pour les personnes obèse et diabétiques type II <br />
+Le tableur peut suivre un contrôle glycémique pour les personnes obèse et diabétiques type II (nécessite contrôle médical) <br />
 et aussi selectionner les aliments correspondant à un régime DASH (Pour hypertention,mais peu efficace) <br />
+Peut aussi suivre le coût d'un régime, mais nécessite de mettre à jours tous les prix 2022). 
+La 1ere colonne du tableur sert à calculer les kcal/100g et prix d'un plat confectionné.
 
 [ Procedure 1: le régime ]<br />
 1/ Vous comprenez BIEN ce que l'on veux dire avec la réduction de la poche stomacale (voir pdf doc)<br />
